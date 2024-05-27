@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BaseStructureMvvmDsl</string>
+    <string name="btn_retry">Retry</string>
+    <string name="error_msg_unknown">error code 401</string>
+    <string name="error_msg_no_internet">Not connected to internet</string>
+    <string name="error_msg">Sorry! Couldn\'t fetch News.</string>
+    <string name="error_msg_timeout">The server took too long to respond</string>
+</resources>
